@@ -1,4 +1,4 @@
-## Hi i´m William Lago / Olá eu sou William Lago 👋
+## Olá eu sou William Lago 👋
 
 - 🖼️ I currently work with Front-end.
 - ⚙️ I also work on the back end.
