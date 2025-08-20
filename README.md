@@ -1,18 +1,18 @@
 ## Olá eu sou William Lago 👋
 
-- 🖼️ I currently work with Front-end.
-- ⚙️ I also work on the back end.
+- ⚙️ I currently work on the Full-Stack.
 - 🧑‍💻 I am a Systems Development Technician.
 - 🖥️ I am studying Bachelor of Computer Science.
 - 🔭 I am looking for an opportunity in the development area.
+- 🤖 I like IoT and AI
 - 🌱 I always try to improve and update myself
 - 😄 Pronouns: he/him
 ---
-- 🖼️ Atualmente trabalho com Front-end.
-- ⚙️ Também atuo com back-end.
+- ⚙️ Atualmente atuo como Full-Stack.
 - 🧑‍💻 Sou Técnico em Desenvolvimento de Sistemas.
 - 🖥️ Estou cursando Bacharelado em Ciência da Computação.
 - 🔭 Estou buscando uma oportunidade na área de desenvolvimento.
+- 🤖 Gosto de IoT e IA
 - 🌱 Sempre procuro me aperfeiçoar e me atualizar.
 - 😄 Pronomes: ele/dele
 
@@ -25,7 +25,7 @@
   <img alt="JavaScript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="CSS3" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img alt="React" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Java" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <link alt="MongoDB" height="50px"  href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img alt="Node.js" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 </div>
 
