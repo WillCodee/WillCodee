@@ -17,8 +17,11 @@
 - 😄 Pronomes: ele/dele
 
   <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillCodee&layout=compact&langs_count=16&theme=gruvbox"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillCodee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillCodee&layout=compact&langs_count=16&theme=gruvbox"/>
   </div> 
+
+
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 32px;">
   <img alt="HTML5" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
@@ -31,8 +34,9 @@
 
 ##
 
+
 <div style="gap: 40px; margin: 50px; padding:30px;">
-  <a href="mailto:contato@williamsilvalago">
+  <a href="mailto:williamsilvalago@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
