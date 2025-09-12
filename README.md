@@ -18,21 +18,21 @@
 
   <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillCodee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-   <img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillCodee&layout=compact&langs_count=16&theme=gruvbox"/>
+   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillCodee&layout=compact&langs_count=16&theme=gruvbox"/>
   </div> 
 
 
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 32px;">
-  <img alt="HTML5" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img alt="JavaScript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="CSS3" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img alt="React" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="MongoDB" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>      
-  <img alt="Node.js" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img alt="Python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="MySQL" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Google Colab" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
+  <img alt="HTML5" title="HTML5" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img alt="JavaScript" title="JavaScript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="CSS3" title="CSS3" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img alt="React" title="React" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="MongoDB" title="MongoDB" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>      
+  <img alt="Node.js" title="Node.js" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img alt="Python" title="Python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="MySQL" title="MySQL" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Google Colab" title="Google Colab" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
 </div>
 
 ##
