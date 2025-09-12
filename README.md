@@ -17,8 +17,8 @@
 - 😄 Pronomes: ele/dele
 
   <div>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WillCodee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillCodee&layout=compact&langs_count=16&theme=gruvbox"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillCodee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillCodee&layout=compact&langs_count=16&theme=gruvbox"/>
   </div> 
 
 
@@ -30,6 +30,9 @@
   <img alt="React" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="MongoDB" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>      
   <img alt="Node.js" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img alt="Python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="MySQL" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="Google Colab" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
 </div>
 
 ##
